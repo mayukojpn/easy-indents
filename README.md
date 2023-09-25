@@ -13,6 +13,7 @@
 
 ## インストール
 
+1. [Zip ファイルをダウンロード](https://github.com/mayukojpn/easy-indents/archive/refs/heads/ja.zip)します。
 1. `easy-indents` フォルダー全体を `/wp-content/plugins/` ディレクトリにアップロードします。
 2. **プラグイン**を開きます。
 3. Easy Indents プラグインを有効化します。
