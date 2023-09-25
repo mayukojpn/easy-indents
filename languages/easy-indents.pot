@@ -1,0 +1,24 @@
+# Translation of Plugins - Easy Indents
+# This file is distributed under the same license as the Plugins - Easy Indents package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-05 11:38:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Easy Indents\n"
+
+#. Author of the plugin
+msgid "Mayo Moriyama"
+msgstr "Mayo Moriyama"
+
+#. Description of the plugin
+msgid "The easiest way to control indents on your site-wide blog articles."
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Easy Indents"
+msgstr "Easy Indents"
